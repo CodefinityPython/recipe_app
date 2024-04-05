@@ -1,0 +1,5 @@
+body {
+    background-image: url('/static/bread-slices.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
